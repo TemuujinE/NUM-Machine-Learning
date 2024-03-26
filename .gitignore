@@ -3,3 +3,4 @@ wandb/
 runs/
 cache_dir/
 t5_small_lab3_finetune/
+t5_small_lab3_finetune_PEFT/
