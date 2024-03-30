@@ -1,0 +1,250 @@
+**T5-Base 5 epochs (PEFT)**:
+Test index: 786
+
+Actual Title: Generative Emotional AI for Speech Emotion Recognition: The Case for Synthetic Emotional Speech Augmentation
+
+Predicted Title: End-to-End Text-to-
+
+******************************
+Test index: 2514
+
+Actual Title: Nonparallel High-Quality Audio Super Resolution with Domain Adaptation and Resampling CycleGANs
+
+Predicted Title: Dual-CycleGAN: High-
+
+******************************
+Test index: 2805
+
+Actual Title: Inference with Deep Generative Priors in High Dimensions
+
+Predicted Title: Multi-Layer Vector Approximate 
+
+******************************
+Test index: 171
+
+Actual Title: Spoken Language Intelligence of Large Language Models for Language Learning
+
+Predicted Title: Multiple-choice Question Dataset: Evaluation of
+
+******************************
+Test index: 1289
+
+Actual Title: TinyLSTMs: Efficient Neural Speech Enhancement for Hearing Aids
+
+Predicted Title: Model compression for RNN Speech Enhancement
+
+******************************
+Test index: 1285
+
+Actual Title: EDAC: Efficient Deployment of Audio Classification Models For COVID-19 Detection
+
+Predicted Title: COVID-19 Pre-Screening
+
+******************************
+Test index: 2815
+
+Actual Title: Generalization Ability of MOS Prediction Networks
+
+Predicted Title: MOSNet and self-supervised speech models for
+
+******************************
+**T5-Small 15 epochs (PEFT)**:
+Test index: 786
+
+Actual Title: Generative Emotional AI for Speech Emotion Recognition: The Case for Synthetic Emotional Speech Augmentation
+
+Predicted Title: Enhancing SER with Synthetic Emotion Recognition
+
+******************************
+Test index: 2514
+
+Actual Title: Nonparallel High-Quality Audio Super Resolution with Domain Adaptation and Resampling CycleGANs
+
+Predicted Title: Dual-CycleGAN: High-
+
+******************************
+Test index: 2805
+
+Actual Title: Inference with Deep Generative Priors in High Dimensions
+
+Predicted Title: Multi-Layer Vector Approximate 
+
+******************************
+Test index: 171
+
+Actual Title: Spoken Language Intelligence of Large Language Models for Language Learning
+
+Predicted Title: Multi-choice Question dataset for LLMs
+
+******************************
+Test index: 1289
+
+Actual Title: TinyLSTMs: Efficient Neural Speech Enhancement for Hearing Aids
+
+Predicted Title: Model Compression for Speech Enhancement
+
+******************************
+Test index: 1285
+
+Actual Title: EDAC: Efficient Deployment of Audio Classification Models For COVID-19 Detection
+
+Predicted Title: Using Machine Learning to detect COVID-19
+
+******************************
+Test index: 2815
+
+Actual Title: Generalization Ability of MOS Prediction Networks
+
+Predicted Title: MOSNet and Self-supervised Speech Models
+
+******************************
+**T5-Efficient-Mini 60 epochs (PEFT)**:
+Test index: 786
+
+Actual Title: Generative Emotional AI for Speech Emotion Recognition: The Case for Synthetic Emotional Speech Augmentation
+
+Predicted Title: A TTS system for synthetic emotional speech emotion recognition
+
+******************************
+Test index: 2514
+
+Actual Title: Nonparallel High-Quality Audio Super Resolution with Domain Adaptation and Resampling CycleGANs
+
+Predicted Title: Dual-CycleGAN: High-
+
+******************************
+Test index: 2805
+
+Actual Title: Inference with Deep Generative Priors in High Dimensions
+
+Predicted Title: Multi-Layer Vector Approximate 
+
+******************************
+Test index: 171
+
+Actual Title: Spoken Language Intelligence of Large Language Models for Language Learning
+
+Predicted Title: LLMs: A Multi-choice Question
+
+******************************
+Test index: 1289
+
+Actual Title: TinyLSTMs: Efficient Neural Speech Enhancement for Hearing Aids
+
+Predicted Title: A Multi-SDR for RNN Speech Enhanc
+
+******************************
+Test index: 1285
+
+Actual Title: EDAC: Efficient Deployment of Audio Classification Models For COVID-19 Detection
+
+Predicted Title: COVID-19: A Using Machine Learning
+
+******************************
+Test index: 2815
+
+Actual Title: Generalization Ability of MOS Prediction Networks
+
+Predicted Title: A Multi-Seen Speech Model for MO
+
+******************************
+**T5-Efficient-Mini 90 epochs (PEFT)**:
+Test index: 786
+
+Actual Title: Generative Emotional AI for Speech Emotion Recognition: The Case for Synthetic Emotional Speech Augmentation
+
+Predicted Title: A TTS System for End-to-En
+
+******************************
+Test index: 2514
+
+Actual Title: Nonparallel High-Quality Audio Super Resolution with Domain Adaptation and Resampling CycleGANs
+
+Predicted Title: Dual-CycleGAN: High-
+
+******************************
+Test index: 2805
+
+Actual Title: Inference with Deep Generative Priors in High Dimensions
+
+Predicted Title: Multi-Layer Vector Approximate 
+
+******************************
+Test index: 171
+
+Actual Title: Spoken Language Intelligence of Large Language Models for Language Learning
+
+Predicted Title: LLMs: A Multi-choice Question
+
+******************************
+Test index: 1289
+
+Actual Title: TinyLSTMs: Efficient Neural Speech Enhancement for Hearing Aids
+
+Predicted Title: A Multi-Suspecting Model for Speech
+
+******************************
+Test index: 1285
+
+Actual Title: EDAC: Efficient Deployment of Audio Classification Models For COVID-19 Detection
+
+Predicted Title: CoVID-19: A Streaming and
+
+******************************
+Test index: 2815
+
+Actual Title: Generalization Ability of MOS Prediction Networks
+
+Predicted Title: A Multi-Seen Speech Model for MO
+
+******************************
+**T5-Small 1.5 epochs (Full)**:
+Test index: 786
+
+Actual Title: Generative Emotional AI for Speech Emotion Recognition: The Case for Synthetic Emotional Speech Augmentation
+
+Predicted Title: SER: augmenting SER performance by End-to-End Text-to-
+
+******************************
+Test index: 2514
+
+Actual Title: Nonparallel High-Quality Audio Super Resolution with Domain Adaptation and Resampling CycleGANs
+
+Predicted Title: Towards Neural Audio Super-Resolution for Neural Audio Super-Resolution
+
+******************************
+Test index: 2805
+
+Actual Title: Inference with Deep Generative Priors in High Dimensions
+
+Predicted Title: ML-VAMP: Multi-Layer Vector Approximate Message Passing
+
+******************************
+Test index: 171
+
+Actual Title: Spoken Language Intelligence of Large Language Models for Language Learning
+
+Predicted Title: Towards a Multi-choice Question dataset for Language Learning
+
+******************************
+Test index: 1289
+
+Actual Title: TinyLSTMs: Efficient Neural Speech Enhancement for Hearing Aids
+
+Predicted Title: Adaptive Speech Enhancement for Speech Enhancement
+
+******************************
+Test index: 1285
+
+Actual Title: EDAC: Efficient Deployment of Audio Classification Models For COVID-19 Detection
+
+Predicted Title: Using a Network pruning and quantisation
+
+******************************
+Test index: 2815
+
+Actual Title: Generalization Ability of MOS Prediction Networks
+
+Predicted Title: Using a variety of networks for MOS prediction models
+
+******************************
