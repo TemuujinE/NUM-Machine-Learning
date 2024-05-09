@@ -7,3 +7,4 @@ t5_small_lab3_finetune_PEFT/
 roberta-base-ner-demo/
 *.zip
 my_awesome_gpt-inflection-model/
+lab5_gpt2/
